@@ -7,14 +7,16 @@ The project is divided into two distinct product lines to cater to different nee
 * **Socpowerbud XTs**: A modern, beautiful GUI application built with SwiftUI and \"Liquid Glass\" design language.
 * **Socpowerbud XT**: A lightweight, pure CLI tool for terminal enthusiasts and developers, providing granular data output.
 
-## ⚠️ Preview Experience Program
+## 🚀 Download and Installation
 
-**This software is currently in a Preview state.**
+**This software is for internal preview only. Please join the QQ Group to receive the download link and the latest version!**
 
-To ensure software stability and prevent unauthorized distribution during the beta phase, **mandatory online authentication** is required upon the first launch.
+**Official QQ Group: [Click here to join the infodrop.cn QQ Group](https://infodrop.cn/?open=auth)**
 
-* **Data Collection**: The software will collect your device's Serial Number and Chip Model (and basic IORep structure for debugging) to validate compatibility.
-* **Requirement**: You must accept the license agreement and have an active internet connection for the initial run.
+**To ensure software stability and prevent unauthorized distribution during the beta phase, mandatory online authentication is required upon launch.**
+
+* **Data Collection**: The software will collect your device's Chip Model (and basic IORep structure for debugging) to validate compatibility.
+* **Requirement**: You must accept the license agreement and have an active internet connection to run.
 * **Privacy**: No personal data beyond hardware identifiers is collected.
 
 ---
@@ -99,22 +101,10 @@ This project utilizes Apple's private framework (`IOReport`) and undocumented AP
 
 Please **DO NOT** share or reverse-engineer this software in any public setting. All downloads and updates are provided exclusively through designated channels.
 
----
-
-## 🚀 Download and Installation
-
-**This software is for internal preview only. Please join the QQ Group to receive the download link and the latest version!**
-
-**Official QQ Group: [Click here to join the infodrop.cn QQ Group](https://infodrop.cn/?open=auth)**
-
----
-
 ## 📄 License
 
 This project is licensed under the **Celestia-no-mad-world License**. 
 
 By using this software, you agree to the terms of the Preview Experience Program.
-
----
 
 *Built with ❤️ by CelestialSayuki*
