@@ -1,6 +1,6 @@
 # Socpowerbud XT
 
-**Socpowerbud** is an advanced power and performance monitoring suite designed specifically for Apple Silicon devices.
+**Socpowerbud XT** is an advanced power and performance monitoring suite designed specifically for Apple Silicon devices.
 
 The project is divided into two distinct product lines to cater to different needs:
 
@@ -82,7 +82,8 @@ Turn your iPhone/iPad into a dedicated dashboard for your Mac:
 
 1.  Ensure both devices are on the same LAN/Wi-Fi.
 2.  **Host**: Run **XTs** (macOS) or **XT** (CLI) on the device you want to monitor.
-3.  **Client**: Run **XTs** on your viewing device (iOS/macOS).\n4.  Tap the device menu in the header and select the Host.
+3.  **Client**: Run **XTs** on your viewing device (iOS/macOS).
+4.  Tap the device menu in the header and select the Host.
 
 ## ⚠️ Disclaimer
 
@@ -92,9 +93,25 @@ This project utilizes Apple's private framework (`IOReport`) and undocumented AP
 * Do not use in production environments or submit to the App Store.
 * Low-level hardware sensor reading capabilities may break with system updates.
 
+## 🚫 Source Code Status: Closed Source
+
+**IMPORTANT: This project is Closed Source.**
+
+Please **DO NOT** share or reverse-engineer this software in any public setting. All downloads and updates are provided exclusively through designated channels.
+
+---
+
+## 🚀 Download and Installation
+
+**This software is for internal preview only. Please join the QQ Group to receive the download link and the latest version!**
+
+> **Official QQ Group: [Click here to join the infodrop.cn QQ Group] (https://infodrop.cn/?open=auth) **
+
+---
+
 ## 📄 License
 
-This project is open-sourced under the **Celestia-no-mad-world License**. 
+This project is licensed under the **Celestia-no-mad-world License**. 
 
 By using this software, you agree to the terms of the Preview Experience Program.
 
