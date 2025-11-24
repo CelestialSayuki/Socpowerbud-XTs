@@ -53,18 +53,18 @@ While Socpowerbud XT can detect the model identity of almost all Apple Silicon d
 
 | Chip Model | Status | Capability |
 | :--- | :---: | :--- |
-| **M1** | ⚪ **Pending** | Power sensors pending. |
+| **M1** | 🟡 **Partial** | Unknown. |
 | **M1 Pro** | 🟢 **Supported** | Full Telemetry. |
 | **M1 Max** | 🟢 **Supported** | Full Telemetry. |
-| **M1 Ultra** | ⚪ **Pending** | Power sensors pending. |
+| **M1 Ultra** | ⚪ **Pending** | Power sensors dump pending. |
 | **M2** | 🟢 **Supported** | Full Telemetry. |
-| **M2 Pro** | ⚪ **Pending** | Power sensors pending. |
+| **M2 Pro** | ⚪ **Pending** | Power sensors dump pending. |
 | **M2 Max** | 🟢 **Supported** | Full Telemetry. |
-| **M2 Ultra** | ⚪ **Pending** | Power sensors pending. |
+| **M2 Ultra** | ⚪ **Pending** | Power sensors dump pending. |
 | **M3**| 🟢 **Supported** | Full Telemetry. |
 | **M3 Pro**| 🟢 **Supported** | Full Telemetry. |
-| **M3 Max**| 🟡 **Partial** | T6034 Power sensors pending. |
-| **M3 Ultra**| ⚪ **Pending** | Power sensors pending. |
+| **M3 Max**| 🟡 **Partial** | T6034 Power sensors dump pending. |
+| **M3 Ultra**| ⚪ **Pending** | Power sensors dump pending. |
 | **M4** | 🟢 **Supported** | Full Telemetry. |
 | **M4 Pro** | 🟢 **Supported** | Full Telemetry. |
 | **M4 Max** | 🟢 **Supported** | Full Telemetry. |
@@ -74,16 +74,16 @@ While Socpowerbud XT can detect the model identity of almost all Apple Silicon d
 
 | Chip Model | Status | Capability |
 | :--- | :---: | :--- |
-| **A19 / Pro** | ⚪ **Pending** | Power sensors pending. |
-| **A18 / Pro** | ⚪ **Pending** | Power sensors pending. |
-| **A17 Pro** | ⚪ **Pending** | Power sensors pending. |
-| **A16 Bionic** | ⚪ **Pending** | Power sensors pending. |
-| **A15 Bionic** | ⚪ **Pending** | Power sensors pending. |
-| **A14 Bionic** | ⚪ **Pending** | Power sensors pending. |
-| **A13 Bionic** | ⚪ **Pending** | Power sensors pending. |
-| **A12X / A12Z Bionic** | ⚪ **Pending** | Power sensors pending. |
-| **A12 Bionic** | ⚪ **Pending** | Power sensors pending. |
-| **A11 and older** | ⚪ **Pending** | Power sensors pending. |
+| **A19 / Pro** | ⚪ **Pending** | Power sensors dump pending. |
+| **A18 / Pro** | ⚪ **Pending** | Power sensors dump pending. |
+| **A17 Pro** | ⚪ **Pending** | Power sensors dump pending. |
+| **A16 Bionic** | ⚪ **Pending** | Power sensors dump pending. |
+| **A15 Bionic** | ⚪ **Pending** | Power sensors dump pending. |
+| **A14 Bionic** | ⚪ **Pending** | Power sensors dump pending. |
+| **A13 Bionic** | ⚪ **Pending** | Power sensors dump pending. |
+| **A12X / A12Z Bionic** | ⚪ **Pending** | Power sensors dump pending. |
+| **A12 Bionic** | ⚪ **Pending** | Power sensors dump pending. |
+| **A11 and older** | ⚪ **Pending** | Power sensors dump pending. |
 
 ## 🖥️ Socpowerbud XT (CLI) Usage
 
