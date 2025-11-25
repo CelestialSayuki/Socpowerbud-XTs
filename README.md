@@ -53,7 +53,7 @@ While Socpowerbud XT can detect the model identity of almost all Apple Silicon d
 
 | Chip Model | Status | Capability |
 | :--- | :---: | :--- |
-| **M1** | 🟡 **Partial** | Unknown. |
+| **M1** | 🟢 **Supported** | Full Telemetry. |
 | **M1 Pro** | 🟢 **Supported** | Full Telemetry. |
 | **M1 Max** | 🟢 **Supported** | Full Telemetry. |
 | **M1 Ultra** | ⚪ **Pending** | Power sensors dump pending. |
