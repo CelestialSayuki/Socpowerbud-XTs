@@ -63,7 +63,7 @@ While Socbud can detect the model identity of almost all Apple Silicon devices, 
 | **M2 Ultra** | ⚪ **Pending** | Power sensors dump pending. |
 | **M3**| 🟢 **Supported** | Full Telemetry. |
 | **M3 Pro**| 🟢 **Supported** | Full Telemetry. |
-| **M3 Max**| 🟡 **Partial** | T6034 Power sensors dump pending. |
+| **M3 Max**| 🟢 **Supported** | Full Telemetry. |
 | **M3 Ultra**| ⚪ **Pending** | Power sensors dump pending. |
 | **M4** | 🟢 **Supported** | Full Telemetry. |
 | **M4 Pro** | 🟢 **Supported** | Full Telemetry. |
