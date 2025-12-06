@@ -2,7 +2,9 @@
 
 **Socbud** is an advanced power and performance monitoring suite designed specifically for Apple Silicon devices.
 
-The project is divided into two distinct product lines to cater to different needs:
+It features a groundbreaking **Dual Voltage Analysis Engine**, capable of distinguishing between **Core Logic** and **SRAM** voltages—revealing the true, ultra-low power states of Apple Silicon that other tools miss.
+
+The project is divided into two distinct product lines...
 
 * **Socbud+**: A modern, beautiful GUI application built with SwiftUI and \"Liquid Glass\" design language.
 * **Socbud**: A lightweight, pure CLI tool for terminal enthusiasts and developers, providing granular data output.
@@ -65,9 +67,7 @@ While Socbud can detect the model identity of almost all Apple Silicon devices, 
 | **M3 Pro**| 🟢 **Supported** | Full Telemetry. |
 | **M3 Max**| 🟢 **Supported** | Full Telemetry. |
 | **M3 Ultra**| ⚪ **Pending** | Power sensors dump pending. |
-| **M4** | 🟢 **Supported** | Full Telemetry. |
-| **M4 Pro** | 🟢 **Supported** | Full Telemetry. |
-| **M4 Max** | 🟢 **Supported** | Full Telemetry. |
+| **M4 Family** | 🟢 **Supported** | Full Telemetry. |
 | **M5** | 🟢 **Supported** | Full Telemetry. |
 
 ### Apple A-Series
@@ -109,7 +109,7 @@ The CLI outputs a structured view of the SoC's power state:
 * **ANE**: Apple Neural Engine frequency and voltage.
 * **Clusters**: Detailed breakdown of E-Cores and P-Cores, including:
     * Frequency (MHz)
-    * Voltage (mV)
+    * **Voltage (mV)**: Displays both **Logic** (Active Core) and **SRAM** (Cache) voltages separately when available.
     * Power (mW)
     * Residency (Active vs Idle %)
     * **DVFS Distribution**: A histogram of time spent at each frequency state.
